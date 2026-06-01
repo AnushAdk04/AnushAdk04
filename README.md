@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anush Adhikari</h1>
 <h3 align="center">Full Stack Developer & UI/UX Designer from Nepal 🇳🇵</h3>
-<img width="400" align="right" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"/>
+<img width="400" align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 
 - 🔭 Building modern web apps with **React, Next.js, Tailwind CSS, and Node.js**
@@ -39,8 +39,8 @@
   <a href="https://upstash.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/upstash" alt="upstash" width="40" height="40"/></a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
   <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/></a>
-  <a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" alt="render" width="40" height="40"/></a>
-  <a href="https://cloudinary.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/cloudinary/cloudinary-icon.svg" alt="cloudinary" width="40" height="40"/></a>
+  <a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/render/46E3B7" alt="render" width="40" height="40"/></a>
+  <a href="https://cloudinary.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/cloudinary/3448C5" alt="cloudinary" width="40" height="40"/></a>
   <a href="https://resend.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/resend" alt="resend" width="40" height="40"/></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
